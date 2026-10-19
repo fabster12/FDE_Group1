@@ -1,0 +1,4 @@
+schema: spec-driven
+created: 2026-10-19
+goal: Demonstrate an end-to-end, human-in-the-loop decision-support pipeline
+  over mocked support data with no write path to an active knowledge base
